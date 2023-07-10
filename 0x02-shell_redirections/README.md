@@ -1,1 +1,1 @@
-Read me for shell redirections
+Read me for shell redirections sample 
